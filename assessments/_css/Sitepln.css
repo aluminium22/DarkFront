@@ -1,0 +1,67 @@
+/* 
+    Document   : newCascadeStyleSheet
+    Created on : Oct 26, 2013, 12:56:41 PM
+    Author     : Aluminium
+    Description:
+        Purpose of the stylesheet follows.
+*/
+div
+{
+    background-color:#808084; 
+    text-align: left;
+    color: #000000;
+}
+body
+{
+background-color:#111145;
+}
+h1
+{
+color:orange;
+text-align:center;
+}
+h2
+{
+color:orange;
+text-align:left;
+}
+h3
+{
+color:orange;
+text-align:center;
+}
+p
+{
+font-family:"helvetica";
+font-size:20px;
+color:white;
+}
+footer
+{
+font-size:15px;
+text-align: center
+}
+a
+{
+    color:white;
+}
+ol
+{
+    text-align: left;
+    font-size: 18px;
+    color: white;
+}
+dl
+{
+    background: #808084;
+    border-bottom-color: #cccccc;
+    width:70%;
+}
+dt
+{
+   color: orange; 
+}
+dd
+{
+    color: orange;
+}
